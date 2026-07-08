@@ -23,8 +23,8 @@ const reasons = [
   },
   {
     icon: MapPin,
-    title: "Built for Nigeria",
-    body: "Naira pricing, local platforms, and SMB-focused strategy that actually works in this market.",
+    title: "Built for your market",
+    body: "Local pricing, familiar platforms, and SMB-focused strategy that actually works where you operate.",
   },
   {
     icon: Award,
@@ -198,9 +198,9 @@ function Home() {
                 Training that turns into real work
               </h2>
               <p className="mt-4 text-ink/70">
-                Every course is practical, cohort-based, and made for the
-                Nigerian market — so you finish with skills you can use and
-                proof you can show.
+                Every course is practical, cohort-based, and built for
+                real-world application. So you finish with skills you can use
+                and proof you can show.
               </p>
             </div>
             <div className="mt-12 grid gap-6 sm:grid-cols-2 lg:grid-cols-4">

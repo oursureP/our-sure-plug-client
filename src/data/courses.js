@@ -11,8 +11,8 @@ export const courses = [
       "Learn social media, SEO, email, ads and analytics — hands-on, from scratch.",
     duration: "8 Weeks",
     level: "Complete beginners — no experience needed",
-    priceUSD: 300,
-    priceNGN: 415500,
+    priceUSD: 350,
+    priceNGN: 484750,
     priceNote: "per student · full 8-week program · certificate included",
     description:
       "An 8-week, beginner-friendly foundation in digital marketing. You’ll learn how businesses attract, engage and convert customers online — and actually execute a full campaign from scratch, ready to market for a small business, freelance, or specialise further.",

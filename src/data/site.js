@@ -29,14 +29,14 @@ export const testimonials = [
     image: "",
   },
   {
-    name: "Emeka Balogun",
+    name: "Connor McAllister",
     role: "Freelance Marketer · Port Harcourt",
     quote:
       "The assignments were real work, not theory. I now run the full marketing for two small businesses using exactly what I learned here.",
     image: "",
   },
   {
-    name: "Aisha Mohammed",
+    name: "Seun Badmus",
     role: "Content Creator · Abuja",
     quote:
       "The AI video course changed how I produce content. What used to take me days I can now finish in hours, and it looks more professional.",

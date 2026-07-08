@@ -199,7 +199,7 @@ function Home() {
               </h2>
               <p className="mt-4 text-ink/70">
                 Every course is practical, cohort-based, and built for
-                real-world application. So you finish with skills you can use
+                real-world application. So you finish with sk ills you can use
                 and proof you can show.
               </p>
             </div>
